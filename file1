@@ -1,0 +1,4 @@
+echo "New File"
+a = 10
+b = 20
+echo "This is a test"
